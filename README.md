@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na Fatec de Americana.
-- 💼 &nbsp; Estágiario de Desenvolvimento na Fiberwork Optical Communications.
+- 💼 &nbsp; Sem trabalho no momento (me contrata aí pfv).
 - 🌱 &nbsp; Aprendendo mais sobre JavaScript, React, React-Native, Node e Vue.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
